@@ -1,2 +1,0 @@
-# techtionary
-Created with CodeSandbox

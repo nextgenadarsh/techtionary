@@ -1,0 +1,1452 @@
+[
+  {
+      "q": "What is Routing Guard in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Entry",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is a module, and what does it contain?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Entry",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are pipes? Give me an example.",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Entry",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the differences between AngularJS (angular 1.x) and Angular (Angular 2.x and beyond)?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is a component? Why would you use it?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the minimum definition of a component?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What's the difference between an Angular component and module?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is a service, and when will you use it?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the equivalent of ngShow and ngHide in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "You have an HTML response I want to display. How do I do that?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How can I select an element in a component template?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the equivalent of \"ngShow\" and \"ngHide\" in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between *ngIf vs [hidden]?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between \"@Component\" and \"@Directive\" in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What does this line do?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How would you protect a component being activated through the router?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are some differences between Angular 2 and 4?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How would you run unit test?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between Structural and Attribute directives in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the purpose of base href tag?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is an observer?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is an observable?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are observables?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is a bootstrapping module?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is interpolation?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Junior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Explain the difference between `Promise` and `Observable` in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Explain the difference between \"Constructor\" and \"ngOnInit\"",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between `@Component` and `@Directive` in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Can you explain the difference between `Promise` and `Observable` in Angular? In what scenario can we use each case?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why should `ngOnInit` be used, if we already have a `constructor`?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How to bundle an Angular app for production?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is difference between \"declarations\", \"providers\" and \"import\" in NgModule?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Reactive Programming and how to use one with Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What's new in Angular 6 and why shall we upgrade to it?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why would you use a spy in a test?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is TestBed?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Protractor?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the point of calling \"renderer.invokeElementMethod(rendererEl, methodName)\"?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How would you control size of an element on resize of the window in a component?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is AOT?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Redux and how does it relate to an Angular app?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the use of codelyzer?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How to inject base href?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "When would you use eager module loading?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the Core Dependencies of Angular 7?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why Incremental DOM Has Low Memory Footprint?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the ways to control AOT compilation?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Angular Universal?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Do I need a Routing Module always?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the purpose of Wildcard route?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is activated route?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is router state?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is router outlet?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are dynamic components?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Explain how custom elements works internally?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are custom elements?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the utility functions provided by RxJS?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How do you perform error handling in observables?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is multicasting?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between promise and observable?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is subscribing?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How do you perform Error handling for HttpClient?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is a parameterized pipe?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How do you categorize data binding types?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What happens if you use script tag inside template?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the option to choose between inline and external template file?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What's new in Angular 8?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Bazel?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular",
+          "Angular 8"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Angular Ivy?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular",
+          "Angular 8"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Explain Lazy Loading in Angular 8?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Mid",
+      "tags": [
+          "angular",
+          "Angular 8"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the lifecycle hooks for components and directives?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "When should I store the \"Subscription\" instances and invoke `unsubscribe()` during the NgOnDestroy life cycle and when can I simply ignore them?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Could I use jQuery with Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How to set headers for every request in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How to detect a route change in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the need for SystemJS in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Are there any pros/cons (especially performance-wise) in using local storage to replace cookie functionality?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What does \"detectChanges\" do in Angular jasmine tests?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why would you use renderer methods instead of using native element methods?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What would be a good use for NgZone service?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Zone in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How would you insert an embedded view from a prepared TemplateRef?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What does a just-in-time (JIT) compiler do (in general)?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Reactive programming and how does it relate to Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Name some security best practices in Angular",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is ngUpgrage?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How do you create application to use scss? What changed for Angular 6?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Name and explain some Angular Module Loading examples",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why would you use lazy loading modules in Angular app?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "When does a lazy loaded module is loaded?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Ivy Renderer? Is it supported by Angular 7?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is incremental DOM? How is it different from virtual DOM?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why do we need compilation process?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the advantages with AOT?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are the mapping rules between Angular component and custom element?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Do I need to bootstrap custom elements?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between pure and impure pipe?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why we should use Bazel for Angular builds?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular",
+          "Angular 8"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Explain the purpose of Service Workers in Angular",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are some new features in Angular 9?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Senior",
+      "tags": [
+          "angular",
+          "Angular 9"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the difference between BehaviorSubject vs Observable?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the Angular equivalent to an AngularJS \"$watch\"?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Is there no equivalent to `$scope.emit()` or `$scope.broadcast()` in Angular?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Name some differences between SystemJS vs WebPack?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Could you provide some particular examples of using ngZone?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is the default compilation for Angular 5?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Just-in-Time (JiT) vs Ahead-of-Time (AoT) compilation. Explain the difference.",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Do you know how you can run angularJS and angular side by side?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How would you extract webpack config from angular cli project?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why angular uses url segment?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "When to use query parameters versus matrix parameters?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why did the Google team go with incremental DOM instead of virtual DOM?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Why Incremental DOM is Tree Shakable?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What's new in Angular 7?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are observable creation functions?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How does Ivy affect the (Re)build time?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular",
+          "Angular 8"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What are some changes in Location module?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular",
+          "Angular 8"
+      ],
+      "refs": []
+  },
+  {
+      "q": "What is Locality principle for Ivy?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular",
+          "Angular 9"
+      ],
+      "refs": []
+  },
+  {
+      "q": "Explain improvements in Tree-Shaking",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular",
+          "Angular 9"
+      ],
+      "refs": []
+  },
+  {
+      "q": "How Would You Compare View Engine vs Ivy?",
+      "a": {
+          "points": []
+      },
+      "topic": "angular",
+      "level": "Expert",
+      "tags": [
+          "angular",
+          "Angular 9"
+      ],
+      "refs": []
+  }
+]

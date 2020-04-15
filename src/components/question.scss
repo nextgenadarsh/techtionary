@@ -1,0 +1,21 @@
+.tech-question {
+  margin-top: 10px;
+  cursor: pointer;
+
+  :hover {
+    background-color: lightcyan;
+  }
+
+  .question-tags {
+    display: flex;
+    padding: 5px 5px 5px 5px;    
+  }
+
+  .tags {
+    margin-left: 10px;
+  }
+
+  .tag {
+    color: lightgray;
+  }
+}
