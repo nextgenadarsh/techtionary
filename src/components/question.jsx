@@ -1,4 +1,6 @@
 import React from "react";
+import Markdown from "markdown-to-jsx";
+
 import "./question.scss";
 
 export const Question = ({ question, onQuestionSelect }) => {
@@ -7,11 +9,11 @@ export const Question = ({ question, onQuestionSelect }) => {
   };
 
   return (
-    <div
-      className="tech-question"
-      onClick={() => handleOnQuestionSelect(question.id)}
-    >
-      <div className="question-tags">
+    <div className="tech-question">
+      <div
+        className="question-tags"
+        onClick={() => handleOnQuestionSelect(question.id)}
+      >
         <h6>
           {question.id}. {question.q}
         </h6>
@@ -22,6 +24,9 @@ export const Question = ({ question, onQuestionSelect }) => {
             </sup>
           ))}
         </div>
+      </div>
+      <div className="answer">
+        {question.answer && <Markdown>{question.answer}</Markdown>}
       </div>
     </div>
   );

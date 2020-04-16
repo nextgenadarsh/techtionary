@@ -1,46 +1,67 @@
+import { Dispatch } from "react";
+
 import {
-  GET_ANSWER,
-  GET_ANSWER_SUCCESS,
   GET_QUESTIONS,
   GET_QUESTIONS_SUCCESS,
   INITIALIZE,
-  CHANGE_TOPIC
+  CHANGE_TOPIC,
+  GET_TOPICS_SUCCESS,
+  GET_ANSWER_SUCCESS
 } from "./action-types";
 
-import { getAnswer, getQuestions } from "../services/data-service";
+import { getQuestions, getTopics, getAnswer } from "../services/data-service";
+import { Topic } from "../models";
 
-const changeTopicAction = (dispatch, topicId) => {
+const changeTopicAction = (dispatch: Dispatch<any>, topicId: string) => {
   dispatch({ type: CHANGE_TOPIC, topicId });
-  getAnswer(dispatch, topicId);
 };
 
-const getAnswerAction = (dispatch, payload) => {
+const getAnswerAction = (dispatch: Dispatch<any>, payload) => {
+  getAnswer(dispatch, payload);
+};
+
+const getAnswerSuccessAction = (dispatch: Dispatch<any>, payload) => {
   dispatch({
-    type: GET_QUESTIONS,
-    payload: payload
+    type: GET_ANSWER_SUCCESS,
+    ...payload
   });
-  getAnswer(dispatch, payload.id);
 };
 
-// const getQuestionsAction = (dispatch, payload) => {
-//   dispatch({
-//     type: GET_QUESTIONS,
-//     payload: payload
-//   });
-//   getQuestions(dispatch, payload.id);
-// };
+const getQuestionsAction = (dispatch: Dispatch<any>, topicId: string) => {
+  getQuestions(dispatch, topicId);
+};
 
-const getQuestionsSuccessAction = (dispatch, payload) => {
+const getQuestionsSuccessAction = (dispatch: Dispatch<any>, payload) => {
   dispatch({
     ...payload,
     type: GET_QUESTIONS_SUCCESS
   });
 };
 
-const initializeAction = dispatch => {
+const getTopicsAction = (dispatch: Dispatch<any>) => {
+  getTopics(dispatch);
+};
+
+const getTopicsSuccessAction = (dispatch: Dispatch<any>, topics: Topic[]) => {
+  dispatch({
+    type: GET_TOPICS_SUCCESS,
+    topics
+  });
+};
+
+const initializeAction = (dispatch: Dispatch<any>) => {
   dispatch({
     type: INITIALIZE
   });
 };
 
-export { changeTopicAction, initializeAction, getQuestionsSuccessAction };
+export {
+  changeTopicAction,
+  initializeAction,
+  getAnswerAction,
+  getAnswerSuccessAction,
+  getQuestionsAction,
+  getQuestionsSuccessAction,
+  getTopicsAction,
+  getTopicsSuccessAction
+};

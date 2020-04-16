@@ -1,17 +1,23 @@
 import React, { useReducer, useEffect, Suspense, lazy } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
+import {
+  initializeAction, 
+  getTopicsAction
+} from "./reducer/actions";
+import { reducer, initialState } from "./reducer";
+
 const HomePage = lazy(() => import("./pages/home-page"));
 const TopicPage = lazy(() => import("./pages/topic-page"));
-
-import { initializeAction } from "./reducer/actions";
-import { reducer, initialState } from "./reducer";
 
 export default function App() {
   const [state, dispatch] = useReducer(reducer, initialState);
 
   useEffect(() => {
     initializeAction(dispatch);
+    if (state?.topics.length < 1) {
+      getTopicsAction(dispatch);
+    }
   });
 
   return (
